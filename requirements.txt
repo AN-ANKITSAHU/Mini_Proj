@@ -1,0 +1,9 @@
+pandas
+numpy<2.0.0
+scikit-learn
+kaggle
+opencv-python<4.10.0.0
+tensorflow<2.16.0
+matplotlib
+seaborn
+protobuf<4.0.0
