@@ -22,7 +22,7 @@ This project demonstrates:
 ## Project Structure
 
 ```
-pediatric-pneumonia-detection/
+Mini_Proj/
 │
 ├── data/                        # Created after running download_data.py
 │   └── chest_xray/
@@ -43,7 +43,8 @@ pediatric-pneumonia-detection/
 ├── genetic_algorithm.py         # GA-based feature selection
 ├── train_evaluate.py            # Main training & evaluation pipeline
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
